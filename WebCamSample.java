@@ -40,6 +40,8 @@ import java.awt.image.BufferedImage;
 import java.awt.event.*;
 import javax.swing.*;
 
+/*Hello*/
+
 
 /**
  * This is a sample application that integrates the webcam library
